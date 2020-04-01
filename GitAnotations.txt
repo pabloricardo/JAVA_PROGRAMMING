@@ -1,0 +1,9 @@
+Delete Branch
+git branch -d [LocalBranchNameDelete]
+git push origin --delete [RemoteBranchNameDelete]
+
+Create Branch
+git branch chekcout -b [LocalBranchNameCreate]
+
+Send Branch to Remote Repository
+git push origin [RemoteBranchName]
