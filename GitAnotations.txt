@@ -7,3 +7,6 @@ git branch chekcout -b [LocalBranchNameCreate]
 
 Send Branch to Remote Repository
 git push origin [RemoteBranchName]
+
+Clean changed local branch
+git clean -df
