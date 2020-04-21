@@ -10,3 +10,6 @@ git push origin [RemoteBranchName]
 
 Clean changed local branch
 git clean -df
+
+
+git fetch
