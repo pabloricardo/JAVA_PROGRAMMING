@@ -18,13 +18,20 @@ public class App
         System.out.println(d1);
         System.out.println(sdf.format(d1));
 
+
+        System.out.println("Date add 4 hour");
         Calendar cal = Calendar.getInstance();
         cal.setTime(d1);
         cal.add(Calendar.HOUR_OF_DAY, 4);
         d1 = cal.getTime();
         System.out.println(d1);
 
+        System.out.println("Minutes");
         int minutes = cal.get(Calendar.MINUTE);
         System.out.println(minutes);
+
+        System.out.println("Month");
+        int month = cal.get(Calendar.MONTH) + 1;
+        System.out.println(month);
     }
 }
