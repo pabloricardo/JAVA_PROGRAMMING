@@ -1,6 +1,7 @@
 package org.example.entities;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import java.util.Objects;
 
@@ -100,4 +101,5 @@ public class Pessoa {
     public int hashCode() {
         return Objects.hash(getId());
     }
+
 }
