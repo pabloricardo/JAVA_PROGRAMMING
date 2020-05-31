@@ -10,7 +10,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        String path = "C:\\Users\\pablo\\source\\repos\\JAVA_PROGRAMMING\\ReadFile\\in.txt";
+        String userDir = System.getProperty("user.dir");
+        String path = userDir+"\\in.txt";
 
         try (BufferedReader br = new BufferedReader(new FileReader(path))) {
             String line = br.readLine();
