@@ -21,8 +21,8 @@ public class App {
 
         String actualDate = formatDate(DATE_BR, new Date());
         System.out.println("Actual Date: " + actualDate);
-        SimpleDateFormat simpleDateFormat = new SimpleDateFormat(DATE_BR);
 
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat(DATE_BR);
         Date date = simpleDateFormat.parse(actualDate);
         System.out.println("Date: " + date);
 

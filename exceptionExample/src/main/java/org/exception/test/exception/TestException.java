@@ -1,4 +1,7 @@
-package org.exception.TestException;
+package org.exception.test.exception;
 
-public class TestException {
+public class TestException extends RuntimeException{
+    public TestException(String msg){
+        super(msg);
+    }
 }
