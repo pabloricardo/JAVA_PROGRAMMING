@@ -5,12 +5,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>application</groupId>
-  <artifactId>CuringasDelimitados</artifactId>
+  <artifactId>PredicateExample</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>CuringasDelimitados</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -68,6 +65,14 @@
         <plugin>
           <artifactId>maven-project-info-reports-plugin</artifactId>
           <version>3.0.0</version>
+        </plugin>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-compiler-plugin</artifactId>
+          <configuration>
+            <source>1.8</source>
+            <target>1.8</target>
+          </configuration>
         </plugin>
       </plugins>
     </pluginManagement>

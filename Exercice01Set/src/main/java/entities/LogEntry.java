@@ -4,21 +4,20 @@ import java.util.Date;
 import java.util.Objects;
 
 public class LogEntry {
-
-    private String userName;
+    private String username;
     private Date moment;
 
-    public LogEntry(String userName, Date moment) {
-        this.userName = userName;
+    public LogEntry(String username, Date moment) {
+        this.username = username;
         this.moment = moment;
     }
 
-    public String getUserName() {
-        return userName;
+    public String getUsername() {
+        return username;
     }
 
-    public void setUserName(String userName) {
-        this.userName = userName;
+    public void setUsername(String username) {
+        this.username = username;
     }
 
     public Date getMoment() {
@@ -34,11 +33,11 @@ public class LogEntry {
         if (this == o) return true;
         if (!(o instanceof LogEntry)) return false;
         LogEntry logEntry = (LogEntry) o;
-        return getUserName().equals(logEntry.getUserName());
+        return getUsername().equals(logEntry.getUsername());
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(getUserName());
+        return Objects.hash(getUsername());
     }
 }
