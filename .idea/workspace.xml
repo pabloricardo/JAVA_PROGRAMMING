@@ -2,10 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33e2bd22-10b7-4457-a9b6-3be42cddcba8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JAVA_PROGRAMMING.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionsExample/ExceptionsExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curingasDelimitados/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curingasDelimitados/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enumExample/enumExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptionExample/exceptionExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptionExample/src/main/java/org/exception/test/exception/TestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genericosDelimitados/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genericosDelimitados/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genericosDelimitados/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genericosDelimitados/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genericosDelimitados/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genericosDelimitados/genericosDelimitados.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genericosDelimitados/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genericosDelimitados/src/main/java/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genericosDelimitados/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genericosDelimitados/src/main/java/services/CalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genericosDelimitados/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestException/TestException/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestException/TestException/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestException/TestException/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestException/TestException/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestException/TestException/src/app/App.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +44,11 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ExamplePredicate/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestDate" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -53,14 +76,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2408" y="135" key="FileChooserDialogImpl" timestamp="1593480995981">
-      <screen x="1920" y="0" width="1366" height="728" />
+    <state x="2334" y="294" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620695561591">
+      <screen x="1920" y="120" width="1920" height="1040" />
     </state>
-    <state x="2408" y="135" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1593480995981" />
-    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586563763682" />
-    <state x="209" y="32" key="new project wizard" timestamp="1586563767440">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="2334" y="294" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.120.1920.1040@1920.120.1920.1040" timestamp="1620695561591" />
+    <state x="2660" y="394" key="FileChooserDialogImpl" timestamp="1620695704720">
+      <screen x="1920" y="120" width="1920" height="1040" />
     </state>
-    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586563767440" />
+    <state x="2660" y="394" key="FileChooserDialogImpl/0.0.1536.824/1920.120.1920.1040@1920.120.1920.1040" timestamp="1620695704720" />
+    <state x="2381" y="282" key="SettingsEditor" timestamp="1620695665526">
+      <screen x="1920" y="120" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="282" key="SettingsEditor/0.0.1536.824/1920.120.1920.1040@1920.120.1920.1040" timestamp="1620695665526" />
   </component>
 </project>
