@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a28e5ed2-05ca-44d5-aed3-fee2d082f260" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercice01Set/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FuncaoRecebendoFuncao/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FuncaoRecebendoFuncao/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FuncaoRecebendoFuncao/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FuncaoRecebendoFuncao/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FuncaoRecebendoFuncao/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FuncaoRecebendoFuncao/FuncaoRecebendoFuncao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FuncaoRecebendoFuncao/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FuncaoRecebendoFuncao/src/main/java/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FuncaoRecebendoFuncao/src/main/java/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Genericos/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GenericosDelimitados/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HerancaPolimorfismo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestDate/TestDate/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../curingasDelimitados/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptionExample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/Consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/src/main/java/Util/PriceUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/src/main/java/application/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/src/main/java/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,13 +120,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.120.1920.1040@0.0.1536.824" timestamp="1621987724139" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1622075690229">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1622165958572">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.120.1920.1040@0.0.1536.824" timestamp="1622075690229" />
-    <state x="209" y="107" key="new project wizard" timestamp="1622075787080">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1622165958572" />
+    <state x="209" y="107" key="new project wizard" timestamp="1622166020194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="107" key="new project wizard/0.0.1536.824/1920.120.1920.1040@0.0.1536.824" timestamp="1622075787080" />
+    <state x="209" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1622166020194" />
   </component>
 </project>
