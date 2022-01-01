@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ef68a30-328b-41c6-b45e-bdab4c144b73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Genericos/src/main/java/org/Utils/PrintService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericoDelimitadoLendoArquivo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericoDelimitadoLendoArquivo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericoDelimitadoLendoArquivo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericoDelimitadoLendoArquivo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericoDelimitadoLendoArquivo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericoDelimitadoLendoArquivo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericoDelimitadoLendoArquivo/GenericoDelimitadoLendoArquivo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericoDelimitadoLendoArquivo/src/main/java/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericoDelimitadoLendoArquivo/src/main/java/services/CalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PredicateConsumeFunction/src/main/java/app/PredicateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PredicateConsumeFunction/src/main/java/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PredicateConsumeFunction/src/main/java/util/ProductPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadJson/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curingasDelimitados/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curingasDelimitados/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../curingasDelimitados/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curingasDelimitados/curingasDelimitados.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curingasDelimitados/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../curingasDelimitados/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="22yQBbPGxBLJCprGSOyBbuk4Bgl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ef68a30-328b-41c6-b45e-bdab4c144b73" name="Default Changelist" comment="" />
+      <created>1640807212615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640807212615</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1640807415505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1640807415505" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1640807415504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1640807415504" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1640807415504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1640807415504" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1640807415505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1640807415505" />
+  </component>
+</project>
