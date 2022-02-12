@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="906380b3-d359-4b20-871d-ae9c64267c2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/teste.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DTO/LanguagesDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DTO/PessoaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curingasDelimitados/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curingasDelimitados/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curingasDelimitados/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curingasDelimitados/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curingasDelimitados/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curingasDelimitados/curingasDelimitados.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,10 +148,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="94" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1634610531464" />
-    <state x="310" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1634684180388">
+    <state x="310" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1634697491952">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="310" y="195" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1634684180388" />
+    <state x="310" y="195" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1634697491952" />
+    <state x="54" y="66" key="new project wizard" timestamp="1634697528427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="54" y="66" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1634697528427" />
     <state x="270" y="168" key="run.anything.popup" timestamp="1634645308790">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

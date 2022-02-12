@@ -1,4 +1,31 @@
 package org.Utils;
 
-public class printService {
+import java.util.ArrayList;
+import java.util.List;
+
+public class PrintService<T> {
+
+    private List<T> list = new ArrayList<>();
+
+    public void addValue(T value){
+        list.add(value);
+    }
+
+    public T firstValue(){
+        if(list.isEmpty()){
+            throw new IllegalStateException("List is empty");
+        }
+        return list.get(0);
+    }
+
+    public void printList(){
+        for (Object value : list) {
+            System.out.println(value);
+        }
+    }
+
+
+
+
+    
 }
